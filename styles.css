@@ -23,4 +23,9 @@ section {
 }
 .page_title_block {
     background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.project_block {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
 }
