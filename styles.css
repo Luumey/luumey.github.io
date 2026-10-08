@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #184777;
+  margin: 0;
+}
+section {
+  max-width: 500px;
+  margin: 60px auto;
+  background: white;
+  padding: 24px;
+  border-radius: 6px;
+}
+div {
+    margin: auto;
+    background-color: rgb(44, 133, 192);
+}
