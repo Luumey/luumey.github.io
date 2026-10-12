@@ -28,15 +28,20 @@ section {
 .project_block {
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
+    display: inline-block;
+    padding: 15px;
 }
 .project_block_header{
-
+    margin-top: 10px;
 }
 .project_block_text {
 
 }
 .project_block_img {
-    
+    float: left;
+    position: relative;
+    padding-right: 15px;
+    max-width: 350px;
 }
 .project_block_link {
     
