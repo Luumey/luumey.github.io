@@ -35,13 +35,14 @@ section {
     margin-top: 10px;
 }
 .project_block_text {
-
+    text-align: justify;
 }
 .project_block_img {
     float: left;
     position: relative;
     padding-right: 15px;
     max-width: 350px;
+    border-radius: 10px, 0px, 0px, 0px;
 }
 .project_block_link {
     
