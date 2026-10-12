@@ -42,7 +42,7 @@ section {
     position: relative;
     padding-right: 15px;
     max-width: 350px;
-    border-radius: 10px, 0px, 0px, 0px;
+    border-radius: 10px 0px 0px 0px;
 }
 .project_block_link {
     
